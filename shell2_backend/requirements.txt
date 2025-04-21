@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pandas
+PyPDF2
+reportlab
+opencv-python
+scikit-image
+python-multiparth
+# opencv-python-headless scikit-image
